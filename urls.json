@@ -1,1 +1,1 @@
-[{"from":"aaaaaaaaa","to":"aaaaaaaaaaaaaaaaaa","httpStatus":"302","regex":true,"status":true},{"from":"bbbbbbbbbbb","to":"aSAA","httpStatus":"302","regex":true,"status":true}]
+[{"from":"aaaaaaaaa","to":"vvvvvvvvvvvvvvvvvvvv","httpStatus":"302","regex":true,"status":true,"index":0},{"from":"bbbbbbbbbbb","to":"aSAA","httpStatus":"302","regex":true,"status":true}]
