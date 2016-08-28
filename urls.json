@@ -1,1 +1,1 @@
-[{"from":"/ae-en","to":"/ae-ar","httpStatus":"307","enabled":true,"regex":false,"index":0},{"from":"/sa-en","httpStatus":"404","enabled":true,"regex":false}]
+[{"from":"/ae-en","to":"/ae-ar","httpStatus":"307","enabled":true,"regex":false,"index":0},{"from":"/sa-en","httpStatus":"404","enabled":true,"regex":false},{"from":"/ae-en/home-insurance/(?[.*/])","to":"/ae-en/travel-insurance","httpStatus":"307","regex":true,"enabled":true}]
